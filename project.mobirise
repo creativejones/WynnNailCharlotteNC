@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Wynn Nail Bar",
+    "name": "Wynn Nail Bar of Charlotte NC",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -13,6 +13,12 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/2019-01-22-128x96.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "gdpr": "",
+    "siteUrl": "undefined",
     "uniqCompNum": 5,
     "versionPublish": "4.8.10"
   },
