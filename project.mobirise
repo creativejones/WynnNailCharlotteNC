@@ -1045,12 +1045,12 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/website-gallery-20-1440x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-20-1440x960-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/website-gallery-27-1440x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-27-1440x960-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/website-gallery-22-1440x960.jpg",
@@ -1058,7 +1058,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
