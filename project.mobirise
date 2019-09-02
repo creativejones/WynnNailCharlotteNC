@@ -1,26 +1,37 @@
 {
   "settings": {
     "name": "Wynn Nail Bar of Charlotte NC",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
-        "#be9eb0"
+        "#be9eb0",
+        "#df228c",
+        "#dec5da"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/2019-01-22-128x96.png",
+    "favicon": "@PROJECT_PATH@/assets/images/website-gallery-33-128x85.png",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "cookiesAlert": {
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    },
     "gdpr": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 5,
-    "versionPublish": "4.8.10"
+    "uniqCompNum": 16,
+    "versionPublish": "4.10.8",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -63,7 +74,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-4\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-1\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-4\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-h\">Services</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html#header4-p\">Gallery</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-1\">CONTACT</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -92,7 +103,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2019-01-22-600x450.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/website-gallery-24-1440x960.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -105,7 +116,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Wynn Nail Bar",
-          "text": "<b>Wynn Nail Bar is a place of elagants where you can achive all of your beaut needs.&nbsp;</b>",
+          "text": "<b>Wynn Nail Bar is a place of elagance where you can achive all of your beaut needs.&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -115,8 +126,264 @@
           "_styles": {
             "P": {
               "color": "#be9eb0"
+            },
+            "B": {
+              "color": "#ffffff"
             }
           }
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/part0-5-1440x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dec5da",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "Wynn Nail Bar",
+          "text": "<p>Wynn Nail Bar &nbsp;is a place of elegance where you can achieve all of your beauty needs.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html#header1-d\" data-toolbar=\"-mbrBtnMove\">SERVICES<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-8"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Review more of the services that we provide by clicking the link below.",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "32px",
+              "color": "#6e0c43"
+            }
+          },
+          "_anchor": "header3-h"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/CreativeJonesMedia/Desktop/GWUN%20NETWORK%20SITE//assets/images/mbr-2-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/crw-0h-0a-cc-600x400.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Nail Enhancement Services",
+          "caption1": "<b>Radio vet Skylyn Hagins AKA Sky teamed up with Got What U Need Network to create the Mass Skyteria Podcast. The podcast focuses on politics, music, sports.. well just a wide range of topics. Click the button below to learn more.&nbsp;</b>",
+          "button1": "<a data-app-btn=\"true\" href=\"page1.html#header4-k\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>  ",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/c700x420-1-600x360.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Waxing",
+          "caption2": "<b>Erica Jones AKA Model E is new to the broadcasting scene but she has taken it by storm with her podcast. Model E and her friends have some of the best convos so click the button below to learn more.</b>",
+          "button2": "<a data-app-btn=\"true\" href=\"page2.html#header4-s\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/c700x420-600x360.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Natural Nail Services",
+          "caption3": "<b>LaShon Jones AKA Tall Shon a radio vet started the Indie Process Podcast to talk with great artist and taste makers. He goes over everything to do with independent artist and their process of being apart of the music business. Click the button below to learn more.</b>",
+          "button3": "<a data-app-btn=\"true\" href=\"page3.html#header1-z\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "file:///C:/Users/CreativeJonesMedia/Desktop/GWUN%20NETWORK%20SITE//assets/images/tgl%208-1-600x518.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "The Green Light Podcast",
+          "caption4": "<b>Just 3 guys giving you our opinion... Pull Up</b>",
+          "button4": "<a data-app-btn=\"true\" href=\"page5.html#header4-1v\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>  ",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "file:///C:/Users/CreativeJonesMedia/Desktop/GWUN%20NETWORK%20SITE//assets/images/black%20mail%20show%20podcast%20logo-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "The Black Mail Podcast",
+          "caption5": "<b>The Black Mail Podcast is&nbsp;</b>",
+          "button5": "<a data-app-btn=\"true\" href=\"page6.html#header4-2h\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "B": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#eb6b56"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#6e0c43",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "features1-g"
         },
         {
           "_params": {
@@ -138,7 +405,7 @@
             }
           },
           "text1": "<b>ADDRESS<br>\n721 GOVERNOR MORRISON ST<br>SUITE F160<br>\nCHARLOTTE, NC 28211<br><br>\nCONTACTS<br>\nEmail: WynnNailofCharlotte@gmail.com<br>\nPhone: +1 (704) 366 0018<br></b><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-info\" href=\"http://www.creativejmllc.com/\" target=\"_blank\">Website builder</a></li><li><br></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><b>HOURS\r</b></p><p class=\"mbr-contacts__text\"><b>Monday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Tuesday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Wednesday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Thursday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Friday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Saturday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Sunday 12:00pm – 6:00pm</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -174,9 +441,694 @@
           "_anchor": "footer1-3",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "Services",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#be9eb0",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#be9eb0"
+            },
+            ".mbr-navbar__section": {
+              "background": "#be9eb0"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-4\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-h\">Services</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html#header4-p\">Gallery</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-1\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Wynn Nail Bar</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-a"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/large-344695440-orig-1698x1131.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Services",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-d",
+          "_styles": {
+            "H1": {
+              "font-size": "60px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#6e0c43"
+            },
+            ".mbr-article P": {
+              "text-align": "left",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "25px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "OUR SERVICES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>Sanitation is our Priority </b>* We use plastic liners for all pedicures. * Each Customer receives a new liner, nail file and buffer. * If you are diabetic or have any other medical condition(s), please advise your technician so that we can serve you with your need in mind.&nbsp;</p><p><br></p><p><b>Complimentary Drinks Soft Drink:</b> Water, Orange Juice, Coke/ Diet Coke, Sprite, Orange Soda, Dr. Pepper, Green Tea, Ginger Ale Wine List: Moscato, Sangria, Chardonnay, Merlot, Cabernet Sauvignon, White Zinfandel, Champagne, Pinot Grigio Beer: Bud lite, Corona, Blue Moon, Yengling, Heineken (Limit one Drink per Customer per Visit)</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-i"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#6e0c43"
+            },
+            ".mbr-article DIV": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x937.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Pedicure Services",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "\n<div>Spa Pedicure $30 \n</div><div>Deluxe Pedicure $42) \n</div><div>Ultimate Pedicure $47 \n</div><div>Allure Pedicure $57 \n</div><div>Extremely Pedicure (with Hot Stone) $67</div><div><br></div><div> \n</div><div><b>(Come in for more information)</b></div>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-j"
+        },
+        {
+          "_inherit": "features1",
+          "_params": {
+            "showHeader": true,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": false,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/CreativeJonesMedia/AppData/Local/Mobirise.com/Mobirise/projects/project-2019-08-08_063925/assets/images/allur7-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dec5da",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "headerAlign": "left",
+          "header": "OTHER SERVICES&nbsp;",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "",
+          "caption1": "Spa Manicure\t$17\n<br>Gel Manicure\t$35\n<br>French Spa Manicure\t$22\n<br>Buffing Spa Manicure\t$22\n<br>Deluxe Manciure (with Paraffin)\t$27&nbsp;<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "",
+          "caption2": "Polish Change (Hands/ French) $10/$12\n<br>Polish Change (Feet/French)\t$12/$15&nbsp;<br>Design Per Finger/10 Fingers\t$5/$20 and Up\n<br>Gel Polish Only $25 (Take off old gel polish $5)<br>Gel Polish Removal Only $10<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "",
+          "caption3": "Kid Manicure (Under 10 Yrs)\t$12\n<br>Kid Pedicure (Under 10 Yrs)\t$22\n<br>Acrylic FullSet\t$32\n<br>Acrylic Fill\t$22\n<br>Powder Gel FullSet\t$40\n<br>Powder Gel Fill\t$30&nbsp;<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "",
+          "caption4": "UV Gel FullSet\t$50\t\t\n<br>UV Gel Fill\t$35\t\t\n<br>SNS FullSet\t$50\t\t\n<br>* Add Tips\t+$5\t\t\n<br>* Add French or American\t+$5\t\t\n<br>*\tAdd Special Shape (Coffin/ Stiletto)+$5\n<br>*\tAdd Gel Polish / Mood or Cat Eyes / Chrome +$10 / $15 / $20 Eyelash Extensions (Knott/Individual)\t$45 / $120&nbsp;<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "",
+          "caption5": "- Waxing -<br>Eyebrows $12\n<br>Lips $10\n<br>Chin $10\n<br>Full Face $40+\n<br>Under Arm $20+\n<br>Brazilian $45+\n<br>Bikini $30up&nbsp;<br>Half Arm $20\n<br>Full Arm $50&nbsp;<br>Half Leg $35+<br>Full Leg $55<br>Back $50\n<br>Chest $45<br>Back and Chest $70<br>Side Burns $15&nbsp;<br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_styles": {
+            "P": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "color": "#6e0c43"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "46px",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "content4-k"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.5",
+            "googleMap": {
+              "address": "721 Governor Morrison St . Suite F160 Charlotte, NC 28211",
+              "placeId": "EjNGMTYwLCA3MjEgR292IE1vcnJpc29uIFN0LCBDaGFybG90dGUsIE5DIDI4MjExLCBVU0EiIBoeChYKFAoSCdfmA3o8nlaIEVHYgufReawGEgRGMTYw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>ADDRESS<br>\n721 GOVERNOR MORRISON ST<br>SUITE F160<br>\nCHARLOTTE, NC 28211<br><br>\nCONTACTS<br>\nEmail: WynnNailofCharlotte@gmail.com<br>\nPhone: +1 (704) 366 0018<br></b><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><b>HOURS\r</b></p><p class=\"mbr-contacts__text\"><b>Monday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Tuesday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Wednesday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Thursday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Friday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Saturday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Sunday 12:00pm – 6:00pm</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "B": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts2-b"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#be9eb0",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 Wynn Nail Bar - Website Created by <a href=\"http://www.creativejmllc.com/\" target=\"_blank\">Creative Jones Media, LLC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-c"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Web Page Generator Description",
+        "title": "Gallery",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#be9eb0",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#be9eb0"
+            },
+            ".mbr-navbar__section": {
+              "background": "#be9eb0"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-4\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-h\">Services</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html#header4-p\">Gallery</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-1\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Wynn Nail Bar</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-l"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/website-gallery-4-1440x960.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Gallery",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a>  ",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-p",
+          "_styles": {
+            "H1": {
+              "color": "#df228c",
+              "font-size": "72px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/website-gallery-1440x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-1440x960-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/website-gallery-25-1440x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-25-1440x960-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/website-gallery-20-1440x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-20-1440x960-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/website-gallery-30-1440x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-30-1440x960-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/website-gallery-16-1440x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-16-1440x960-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/website-gallery-14-1440x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-14-1440x960-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/website-gallery-20-1440x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-20-1440x960-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/website-gallery-22-1440x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/website-gallery-22-1440x960-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-o"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.5",
+            "googleMap": {
+              "address": "721 Governor Morrison St . Suite F160 Charlotte, NC 28211",
+              "placeId": "EjNGMTYwLCA3MjEgR292IE1vcnJpc29uIFN0LCBDaGFybG90dGUsIE5DIDI4MjExLCBVU0EiIBoeChYKFAoSCdfmA3o8nlaIEVHYgufReawGEgRGMTYw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<b>ADDRESS<br>\n721 GOVERNOR MORRISON ST<br>SUITE F160<br>\nCHARLOTTE, NC 28211<br><br>\nCONTACTS<br>\nEmail: WynnNailofCharlotte@gmail.com<br>\nPhone: +1 (704) 366 0018<br></b><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><b>HOURS\r</b></p><p class=\"mbr-contacts__text\"><b>Monday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Tuesday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Wednesday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Thursday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Friday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Saturday 9:30am – 7:30pm\r</b></p><p class=\"mbr-contacts__text\"><b>Sunday 12:00pm – 6:00pm</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "B": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts2-m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#be9eb0",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 Wynn Nail Bar - Website Created by <a href=\"http://www.creativejmllc.com/\" target=\"_blank\">Creative Jones Media, LLC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-n"
         }
       ]
     }
