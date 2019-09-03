@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Wynn Nail Bar of Charlotte NC",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -38,7 +38,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Wynn Nail Bar of Charlotte NC is a place of elagance where you can achive all of your beaut needs. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -450,7 +450,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "WWynn Nail Bar of Charlotte Services ",
         "title": "Services",
         "order": 1
       },
