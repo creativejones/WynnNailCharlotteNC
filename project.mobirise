@@ -90,7 +90,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Wynn Nail Bar</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html#header1-4\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Wynn Nail Bar</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-0"
         },
@@ -501,7 +501,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Wynn Nail Bar</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html#header1-4\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Wynn Nail Bar</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-a"
         },
@@ -945,7 +945,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Wynn Nail Bar</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html#header1-4\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Wynn Nail Bar</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-l"
         },
